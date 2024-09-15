@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    line-height: 80px;
+}
+button{
+    background-color: seagreen;
+    padding: 10px;
+   font-size: 30px;
+   border-radius: 5px;
+}
